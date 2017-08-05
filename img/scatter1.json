@@ -1,0 +1,132 @@
+{"frames": [
+
+{
+	"filename": "Scatter_Egg_Loop_000.png",
+	"frame": {"x":0,"y":0,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Loop_001.png",
+	"frame": {"x":420,"y":0,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Loop_002.png",
+	"frame": {"x":840,"y":0,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Loop_003.png",
+	"frame": {"x":1260,"y":0,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Loop_004.png",
+	"frame": {"x":0,"y":460,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Loop_005.png",
+	"frame": {"x":420,"y":460,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Loop_006.png",
+	"frame": {"x":840,"y":460,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Loop_007.png",
+	"frame": {"x":1260,"y":460,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Loop_008.png",
+	"frame": {"x":0,"y":920,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Loop_009.png",
+	"frame": {"x":420,"y":920,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Loop_010.png",
+	"frame": {"x":840,"y":920,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Loop_011.png",
+	"frame": {"x":1260,"y":920,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Loop_012.png",
+	"frame": {"x":0,"y":1380,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Loop_013.png",
+	"frame": {"x":420,"y":1380,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Loop_014.png",
+	"frame": {"x":840,"y":1380,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "scatter1.png",
+	"format": "RGBA8888",
+	"size": {"w":1680,"h":1840},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9b27b5828e7ee2190f8c815cb884e72c:bb77099335ad8f15b3304654a90ef06f:6587f51b1322ffbd0a1248e3f1a811ec$"
+}
+}

@@ -1,0 +1,220 @@
+{"frames": [
+
+{
+	"filename": "Scatter_Egg_Start_000.png",
+	"frame": {"x":0,"y":0,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Start_001.png",
+	"frame": {"x":420,"y":0,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Start_002.png",
+	"frame": {"x":840,"y":0,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Start_003.png",
+	"frame": {"x":1260,"y":0,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Start_004.png",
+	"frame": {"x":1680,"y":0,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Start_005.png",
+	"frame": {"x":2100,"y":0,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Start_006.png",
+	"frame": {"x":2520,"y":0,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Start_007.png",
+	"frame": {"x":2940,"y":0,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Start_008.png",
+	"frame": {"x":3360,"y":0,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Start_009.png",
+	"frame": {"x":0,"y":460,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Start_010.png",
+	"frame": {"x":420,"y":460,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Start_011.png",
+	"frame": {"x":840,"y":460,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Start_012.png",
+	"frame": {"x":1260,"y":460,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Start_013.png",
+	"frame": {"x":1680,"y":460,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Start_014.png",
+	"frame": {"x":2100,"y":460,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Start_015.png",
+	"frame": {"x":2520,"y":460,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Start_016.png",
+	"frame": {"x":2940,"y":460,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Start_017.png",
+	"frame": {"x":3360,"y":460,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Start_018.png",
+	"frame": {"x":0,"y":920,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Start_019.png",
+	"frame": {"x":420,"y":920,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Start_020.png",
+	"frame": {"x":840,"y":920,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Start_021.png",
+	"frame": {"x":1260,"y":920,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Start_022.png",
+	"frame": {"x":1680,"y":920,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Start_023.png",
+	"frame": {"x":2100,"y":920,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Start_024.png",
+	"frame": {"x":2520,"y":920,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+},
+{
+	"filename": "Scatter_Egg_Start_025.png",
+	"frame": {"x":2940,"y":920,"w":420,"h":460},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":460},
+	"sourceSize": {"w":420,"h":460}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "scatter.png",
+	"format": "RGBA8888",
+	"size": {"w":3780,"h":1380},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f00d490152ef3eab8922ac5aa391174f:309f0c6f6c44e67000f7009dbbeee80f:64565495903799e8eba5e511fd554af7$"
+}
+}

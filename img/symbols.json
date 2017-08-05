@@ -1,0 +1,116 @@
+{"frames": [
+
+{
+	"filename": "ACE.png",
+	"frame": {"x":0,"y":220,"w":240,"h":220},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":220},
+	"sourceSize": {"w":240,"h":220}
+},
+{
+	"filename": "JACK.png",
+	"frame": {"x":720,"y":0,"w":240,"h":220},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":220},
+	"sourceSize": {"w":240,"h":220}
+},
+{
+	"filename": "KING.png",
+	"frame": {"x":240,"y":220,"w":240,"h":220},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":220},
+	"sourceSize": {"w":240,"h":220}
+},
+{
+	"filename": "NINE.png",
+	"frame": {"x":480,"y":0,"w":240,"h":220},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":220},
+	"sourceSize": {"w":240,"h":220}
+},
+{
+	"filename": "PIC1.png",
+	"frame": {"x":0,"y":728,"w":260,"h":310},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":310},
+	"sourceSize": {"w":260,"h":310}
+},
+{
+	"filename": "PIC2.png",
+	"frame": {"x":484,"y":474,"w":260,"h":254},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":254},
+	"sourceSize": {"w":260,"h":254}
+},
+{
+	"filename": "PIC3.png",
+	"frame": {"x":0,"y":474,"w":242,"h":254},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":242,"h":254},
+	"sourceSize": {"w":242,"h":254}
+},
+{
+	"filename": "PIC4.png",
+	"frame": {"x":242,"y":474,"w":242,"h":254},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":242,"h":254},
+	"sourceSize": {"w":242,"h":254}
+},
+{
+	"filename": "PIC5.png",
+	"frame": {"x":480,"y":220,"w":244,"h":254},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":244,"h":254},
+	"sourceSize": {"w":244,"h":254}
+},
+{
+	"filename": "QUEEN.png",
+	"frame": {"x":0,"y":0,"w":240,"h":220},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":220},
+	"sourceSize": {"w":240,"h":220}
+},
+{
+	"filename": "SCAT.png",
+	"frame": {"x":260,"y":728,"w":296,"h":350},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":296,"h":350},
+	"sourceSize": {"w":296,"h":350}
+},
+{
+	"filename": "TEN.png",
+	"frame": {"x":240,"y":0,"w":240,"h":220},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":220},
+	"sourceSize": {"w":240,"h":220}
+},
+{
+	"filename": "WILD.png",
+	"frame": {"x":556,"y":728,"w":312,"h":470},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":312,"h":470},
+	"sourceSize": {"w":312,"h":470}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "symbols.png",
+	"format": "RGBA8888",
+	"size": {"w":960,"h":1198},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d47572442a5e403a5ae53fa726b4083d:ba777767cb38f82fea2467a5e35ed6db:d295ed7153fe372207e34d26d380974a$"
+}
+}

@@ -1,0 +1,492 @@
+{"frames": [
+
+{
+	"filename": "Wild_Chicken_000.png",
+	"frame": {"x":0,"y":0,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_001.png",
+	"frame": {"x":502,"y":0,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_002.png",
+	"frame": {"x":1004,"y":0,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_003.png",
+	"frame": {"x":1506,"y":0,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_004.png",
+	"frame": {"x":2008,"y":0,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_005.png",
+	"frame": {"x":2510,"y":0,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_006.png",
+	"frame": {"x":3012,"y":0,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_007.png",
+	"frame": {"x":3514,"y":0,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_008.png",
+	"frame": {"x":0,"y":560,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_009.png",
+	"frame": {"x":502,"y":560,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_010.png",
+	"frame": {"x":1004,"y":560,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_011.png",
+	"frame": {"x":1506,"y":560,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_012.png",
+	"frame": {"x":2008,"y":560,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_013.png",
+	"frame": {"x":2510,"y":560,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_014.png",
+	"frame": {"x":3012,"y":560,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_015.png",
+	"frame": {"x":3514,"y":560,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_016.png",
+	"frame": {"x":0,"y":1120,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_017.png",
+	"frame": {"x":502,"y":1120,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_018.png",
+	"frame": {"x":1004,"y":1120,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_019.png",
+	"frame": {"x":1506,"y":1120,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_020.png",
+	"frame": {"x":2008,"y":1120,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_021.png",
+	"frame": {"x":2510,"y":1120,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_022.png",
+	"frame": {"x":3012,"y":1120,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_023.png",
+	"frame": {"x":3514,"y":1120,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_024.png",
+	"frame": {"x":0,"y":1680,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_025.png",
+	"frame": {"x":502,"y":1680,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_026.png",
+	"frame": {"x":1004,"y":1680,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_027.png",
+	"frame": {"x":1506,"y":1680,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_028.png",
+	"frame": {"x":2008,"y":1680,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_029.png",
+	"frame": {"x":2510,"y":1680,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_030.png",
+	"frame": {"x":3012,"y":1680,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_031.png",
+	"frame": {"x":3514,"y":1680,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_032.png",
+	"frame": {"x":0,"y":2240,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_033.png",
+	"frame": {"x":502,"y":2240,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_034.png",
+	"frame": {"x":1004,"y":2240,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_035.png",
+	"frame": {"x":1506,"y":2240,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_036.png",
+	"frame": {"x":2008,"y":2240,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_037.png",
+	"frame": {"x":2510,"y":2240,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_038.png",
+	"frame": {"x":3012,"y":2240,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_039.png",
+	"frame": {"x":3514,"y":2240,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_040.png",
+	"frame": {"x":0,"y":2800,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_041.png",
+	"frame": {"x":502,"y":2800,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_042.png",
+	"frame": {"x":1004,"y":2800,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_043.png",
+	"frame": {"x":1506,"y":2800,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_044.png",
+	"frame": {"x":2008,"y":2800,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_045.png",
+	"frame": {"x":2510,"y":2800,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_046.png",
+	"frame": {"x":3012,"y":2800,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_047.png",
+	"frame": {"x":3514,"y":2800,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_048.png",
+	"frame": {"x":0,"y":3360,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_049.png",
+	"frame": {"x":502,"y":3360,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_050.png",
+	"frame": {"x":1004,"y":3360,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_051.png",
+	"frame": {"x":1506,"y":3360,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_052.png",
+	"frame": {"x":2008,"y":3360,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_053.png",
+	"frame": {"x":2510,"y":3360,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_054.png",
+	"frame": {"x":3012,"y":3360,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_055.png",
+	"frame": {"x":3514,"y":3360,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_056.png",
+	"frame": {"x":0,"y":3920,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_057.png",
+	"frame": {"x":502,"y":3920,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_058.png",
+	"frame": {"x":1004,"y":3920,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+},
+{
+	"filename": "Wild_Chicken_059.png",
+	"frame": {"x":1506,"y":3920,"w":502,"h":560},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":560},
+	"sourceSize": {"w":502,"h":560}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "wildAnim.png",
+	"format": "RGBA8888",
+	"size": {"w":4016,"h":4480},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:fe0ed4efee514db9eb361ec185ddfa40:4623ad5d4643fbd64b1713a4894f9046:16c625020eedbd7292d755c7c7336d13$"
+}
+}
